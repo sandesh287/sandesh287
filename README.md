@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sandesh287&theme=dark&hide_border=true&v=2026-07-07">
+  <source media="(prefers-color-scheme: dark)" srcset="[https://streak-stats.demolab.com?user=sandesh287&theme=dark&hide_border=true&v=2026-07-07](https://streak-stats.demolab.com?user=sandesh287&theme=dark&hide_border=true&v=20260713)">
   <img src="https://streak-stats.demolab.com?user=sandesh287&theme=default&hide_border=true&v=2026-07-07" alt="GitHub Streak" />
 </picture>
 
