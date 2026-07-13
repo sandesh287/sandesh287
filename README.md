@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **sandesh287/sandesh287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
